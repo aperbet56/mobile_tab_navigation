@@ -6,7 +6,7 @@ Création du projet mobile tab navigation en HTML5, CSS3 et JavaScript.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/mobile_tab_navigation/
 
 ## Projet développé avec
 
