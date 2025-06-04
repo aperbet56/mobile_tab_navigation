@@ -82,12 +82,14 @@ nav li {
     flex: 1;
     padding: 10px;
     text-align: center;
+    transition: color 0.3s ease-in-out;
 }
 
 nav ul li a {
     font-size: 12px;
     margin: 2px 0;
     color: #333333;
+    transition: color 0.3s ease-in-out;
 }
 
 /*nav ul li:hover,
