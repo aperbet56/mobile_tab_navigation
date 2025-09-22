@@ -1,5 +1,7 @@
 ## MOBILE TAB NAVIGATION
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création du projet mobile tab navigation en HTML5, CSS3 et JavaScript.
